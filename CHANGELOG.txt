@@ -1,2 +1,3 @@
+2014-04-22 18:56:44 +0200	// Changelog updated
 2014-03-21 11:33:49 +0100	// Backward compatibility added
 2014-03-21 11:27:36 +0100	Initial commit
