@@ -33,7 +33,7 @@ class BackwardCompatibility extends Module
 	{
 		$this->name = 'backwardcompatibility';
 		$this->tab = 'compatibility_tools';
-		$this->version = '0.7.0';
+		$this->version = '0.8.0';
 		$this->author = 'PrestaShop';
 		$this->need_instance = 1;
 
